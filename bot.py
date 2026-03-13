@@ -38,4 +38,4 @@ def start_marcus_bot():
         driver.switch_to.active_element.send_keys(Keys.SPACE)
         time.sleep(random.uniform(0.08, 0.15))
 if __name__ == "__main__":
-    start_marcus_bot()
+    start_marcus_bot()#Starting  the work
